@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("531060188359426049")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`**Hi Spam Lol Look At This 7rkat firary هاي سبام لو ك ات تيس حركات فراري لول هههههه سبام لول شوف سبام او شي ت ديم مان حركات يلد اوووه Ahmeed,Ahmeed,Ahmeed,Ahmeed,Ahmeed,Ahmeed,Ahmeed,Ahmeed,Ahmeed,AhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeedAhmeed,AhmeedAhmeedAhmeedAhmeed**`);
 }, 30)
 })
 
